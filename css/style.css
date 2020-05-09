@@ -1,0 +1,41 @@
+body {
+    font: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: RGB(154, 125, 10);
+}
+
+.whoAreWeDiv {
+    background-color: royalblue;
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.Introduction {
+    background-color: salmon;
+    font-size: 18px;
+}
+
+.partners {
+    background-color: rgb(85, 198, 212);
+}
+
+.partnersImg {
+    width: 300px;
+    height: 300px;
+}
+
+.services {
+    background-color: gold;
+    font-size: 18px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
